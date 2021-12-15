@@ -1,2 +1,4 @@
-# Signup-Registration-Page
-Simple Signup Registration Page using PHP and MySQLi Database & XAMPP Server
+# Login-Signup-Page
+Simple Login & SignUp Page using PHP and MySQLi Database & XAMPP Server (with VALIDATIONS)
+
+
