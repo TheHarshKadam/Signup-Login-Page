@@ -12,7 +12,7 @@ Simple Login & SignUp Page using PHP and MySQLi Database & XAMPP Server.(with VA
 
 <img src = https://user-images.githubusercontent.com/77354987/146135981-764c7ced-12d1-48f4-b4a5-12049c03fc55.png width=700>
 
-#### Passwords are Secured with MD5 method encryption
+#### Passwords are Secured with MD5 encryption method
 
 
 
